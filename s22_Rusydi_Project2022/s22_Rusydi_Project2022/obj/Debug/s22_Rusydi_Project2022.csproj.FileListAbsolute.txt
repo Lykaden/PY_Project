@@ -1,0 +1,21 @@
+C:\Users\student\Desktop\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.csprojAssemblyReference.cache
+C:\Users\student\Desktop\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\s22_Rusydi_Project2022\s22_Rusydi_Project2022\bin\Debug\s22_Rusydi_Project2022.exe.config
+C:\Users\student\Desktop\s22_Rusydi_Project2022\s22_Rusydi_Project2022\bin\Debug\s22_Rusydi_Project2022.exe
+C:\Users\student\Desktop\s22_Rusydi_Project2022\s22_Rusydi_Project2022\bin\Debug\s22_Rusydi_Project2022.pdb
+C:\Users\student\Desktop\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.exe
+C:\Users\student\Desktop\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.pdb
+C:\Users\Student\Desktop\project2022\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\project2022\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\project2022\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.exe
+C:\Users\Student\Desktop\project2022\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.pdb
+C:\Users\Student\Desktop\project2022\s22_Rusydi_Project2022\s22_Rusydi_Project2022\bin\Debug\s22_Rusydi_Project2022.exe.config
+C:\Users\Student\Desktop\project2022\s22_Rusydi_Project2022\s22_Rusydi_Project2022\bin\Debug\s22_Rusydi_Project2022.exe
+C:\Users\Student\Desktop\project2022\s22_Rusydi_Project2022\s22_Rusydi_Project2022\bin\Debug\s22_Rusydi_Project2022.pdb
+C:\Users\rusyd\Desktop\Project Final Version 2\s22_Rusydi_Project2022\s22_Rusydi_Project2022\bin\Debug\s22_Rusydi_Project2022.exe.config
+C:\Users\rusyd\Desktop\Project Final Version 2\s22_Rusydi_Project2022\s22_Rusydi_Project2022\bin\Debug\s22_Rusydi_Project2022.exe
+C:\Users\rusyd\Desktop\Project Final Version 2\s22_Rusydi_Project2022\s22_Rusydi_Project2022\bin\Debug\s22_Rusydi_Project2022.pdb
+C:\Users\rusyd\Desktop\Project Final Version 2\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.csprojAssemblyReference.cache
+C:\Users\rusyd\Desktop\Project Final Version 2\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.csproj.CoreCompileInputs.cache
+C:\Users\rusyd\Desktop\Project Final Version 2\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.exe
+C:\Users\rusyd\Desktop\Project Final Version 2\s22_Rusydi_Project2022\s22_Rusydi_Project2022\obj\Debug\s22_Rusydi_Project2022.pdb
